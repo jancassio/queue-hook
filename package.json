@@ -1,10 +1,17 @@
 {
   "name": "@jsdevs-sp/queue-hook",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "",
-  "author": "JSDevs SP",
+  "author": "jsdevs-sp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdevs-sp/queue-hook.git"
+  },
   "license": "MIT",
   "directories": {
     "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"tests are coming\""
   }
 }
