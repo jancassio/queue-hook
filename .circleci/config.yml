@@ -27,8 +27,8 @@ jobs:
     <<: *defaults
     steps:
       - run:
-        name: Source Test
-        command: npm test
+          name: Source Test
+          command: npm test
 
 workflows:
   version: 2
