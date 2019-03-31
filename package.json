@@ -10,5 +10,8 @@
   "license": "MIT",
   "directories": {
     "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"tests are coming\""
   }
 }
