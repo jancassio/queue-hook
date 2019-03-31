@@ -44,5 +44,5 @@ workflows:
     jobs:
       - deploy:
           filters:
-            bracnhes:
+            branches:
               only: master
